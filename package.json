@@ -1,0 +1,26 @@
+{
+  "name": "docker-example",
+  "version": "1.0.0",
+  "description": "a containerized node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omermindivanli/node-docker-example.git"
+  },
+  "keywords": [
+    "node",
+    "docker"
+  ],
+  "author": "@omermindivanli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omermindivanli/node-docker-example/issues"
+  },
+  "homepage": "https://github.com/omermindivanli/node-docker-example#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
